@@ -64,15 +64,3 @@ Hi, I'm **Tuku** – a passionate **developer** from **Assam, India**! I love **
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tukuexe&theme=radical&no-frame=true&margin-w=10)  
 
 ---
-
-## **📷 Project Previews**  
-![Project Demo](https://source.unsplash.com/800x400/?technology,computer)  
-*Above is a sample project image. Replace it with your own screenshots!*  
-
----
-
-## **🚀 Fun Fact!**  
-🐍 Did you know? You can add a snake game animation in your README!  
-```md
-![Snake animation](https://github.com/tukuexe/tukuexe/blob/output/github-contribution-grid-snake.svg)
-
