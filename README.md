@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm just only 16 and looking for making an application for only Assam state.
 # 🚀 Tuku's GitHub Profile  
 
-![Profile Banner](https://source.unsplash.com/1500x500/?technology,coding)  
+![Profile Banner](https://github.com/tukuexe/tukuexe/blob/main/IMG_20250220_111328.jpg)  
 
 ### **👋 Welcome to My Profile!**  
 Hi, I'm **Tuku** – a passionate **developer** from **Assam, India**! I love **coding, making websites, and building projects**.  
