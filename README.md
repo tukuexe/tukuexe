@@ -1,23 +1,13 @@
-- 👋 Hi, I’m @tukuexe
-- 👀 I’m interested in making applications
-- 🌱 I’m currently learning sociology 
-- 💞️ I’m looking to collaborate on Quebe
-- 📫 How to reach me "it's easy, chek my bio!!"
-- 😄 Pronouns: He/his/Him "Tuku"!
-- ⚡ Fun fact: I'm just only 16 and looking for making an application for only Assam state.
-# 🚀 Tuku's GitHub Profile  
-
-![Profile Banner](https://github.com/tukuexe/tukuexe/blob/main/IMG_20250220_111328.jpg)  
 
 ### **👋 Welcome to My Profile!**  
-Hi, I'm **Tuku** – a passionate **developer** from **Assam, India**! I love **coding, making websites, and building projects**.  
+Hi, I'm **Tuku** – a passionate **Telegram Bot Developer** from **Assam, India**! I love **coding, making websites, and building Bots**.  
 
 ---
 
 ## **📡 Connect with Me**  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tukuexe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tukuexe)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuku.exe)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ximanta_)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tukuexe)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tukuexe)
 
