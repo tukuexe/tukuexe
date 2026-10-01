@@ -113,14 +113,13 @@ tools, bots, and development projects.
 
 ---
 
-## `05` // CONTRIBUTION SNAKE 🐍
+## `05` // CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/tukuexe/tukuexe/output/github-contribution-grid-snake-dark.svg)
+![Contribution Calendar](https://ghchart.rshah.org/00D4FF/tukuexe)
 
 </div>
-
 ---
 
 ## `06` // DEVELOPER JOURNEY
