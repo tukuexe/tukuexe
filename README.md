@@ -76,11 +76,10 @@ Status     : Always experimenting
 
 > An API project for automated payment verification.
 
-- **Live Demo:** https://auto-payment.ximanta.xyz
+- [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://auto-payment.ximanta.xyz)
 - **Category:** API / Automation
 - **Status:** Live
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://auto-payment.ximanta.xyz)
 
 ### 02. Codebase Store Bot
 
