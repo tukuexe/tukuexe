@@ -113,11 +113,13 @@ tools, bots, and development projects.
 
 ---
 
-## `05` // CONTRIBUTION ACTIVITY
+## `05` // CODING STREAK 🔥
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tukuexe&theme=tokyo-night&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=tukuexe&theme=tokyonight&hide_border=true)
+
+</div>
 
 </div>
 
