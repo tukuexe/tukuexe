@@ -113,13 +113,11 @@ tools, bots, and development projects.
 
 ---
 
-## `05` // CODING STREAK 🔥
+## `05` // CONTRIBUTION SNAKE 🐍
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tukuexe&theme=tokyonight&hide_border=true)
-
-</div>
+![GitHub Snake](https://raw.githubusercontent.com/tukuexe/tukuexe/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
