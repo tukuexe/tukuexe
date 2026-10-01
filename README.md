@@ -1,3 +1,6 @@
+<div align="center">
+
+<img src="file_0000000002a081f5b4798fc12e2453cd.jpg" width="100%" alt="">
 
 <!--
   TUKU.exe | GitHub Profile README
