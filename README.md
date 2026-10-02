@@ -36,6 +36,7 @@ $ cat interests.txt
 $ cat about.txt
 Turning ideas into functional software.
 Learning by building, debugging, and experimenting.
+```
 
 👋 Hey, I'm **Tuku** — a self-taught developer passionate about turning ideas into reality. 🚀
 
