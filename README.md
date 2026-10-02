@@ -76,18 +76,41 @@ Learning by building, debugging, and experimenting.
 
 ## `03` // FEATURED PROJECTS
 
-### 01. Auto Payment Verification API
+### 01. 🤖 GitHub Management Bot
 
-> An API project for automated payment verification.
+> A powerful Telegram bot for complete GitHub repository management. Manage repositories, files, and collaborate seamlessly directly from Telegram.
+
+**Tech Stack:** Node.js • Express • MongoDB • Telegraf
+
+- **Features:**
+  - 📚 List & manage repositories
+  - 🆕 Create new repositories  
+  - 📁 File operations
+  - 🔐 OAuth 2.0 authentication
+  - 🩺 24/7 uptime monitoring
+  - ⚡ Real-time sync
+
+- **Links:**
+  - [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/realtuku/github-mng-bot)
+  - [![Docs](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://realtuku.github.io/github-mng-bot/)
+  - [![Telegram Bot](https://img.shields.io/badge/Telegram-Open_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GitHubmngbot)
+
+**Status:** 🟢 Ready to deploy on Render
+
+---
+
+### 02. Auto Payment Verification API
+
+> An API project for automated payment verification with real-time processing.
 
 - [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://auto-payment.ximanta.xyz)
 - **Category:** API / Automation
-- **Status:** Live
+- **Status:** 🟢 Live
 
 
-### 02. Codebase Store Bot
+### 03. Codebase Store Bot
 
-> A Telegram bot project for a codebase store.
+> A Telegram bot project for a codebase store with code snippets and utilities.
 
 - **Platform:** Telegram
 - **Username:** @codex_storebot
