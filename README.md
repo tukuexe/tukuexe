@@ -99,7 +99,8 @@ Learning by building, debugging, and experimenting.
 Explore my repositories for more experiments,
 tools, bots, and development projects.
 
-[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/tukuexe?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Explore-Primary_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/realximanta?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Explore-Old_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/realtuku?tab=repositories)
 
 ---
 
