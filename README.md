@@ -25,17 +25,17 @@
 ## `01` // WHOAMI
 
 ```bash
-┌──(tuku㉿developer)-[~]
-└─$ whoami
+$ whoami
+Self-taught developer & builder
 
-Name       : Tuku
-Username   : @tukuexe
-Role       : Vibe Coder
-Focus      : Software Development
-Interests  : Bots, APIs, Automation, Android
-Mindset    : Learn. Build. Debug. Repeat.
-Status     : Always experimenting
-```
+$ cat interests.txt
+🤖 Telegram Bots
+📱 Android Apps
+⚡ APIs • Automation • Serverless
+
+$ cat about.txt
+Turning ideas into functional software.
+Learning by building, debugging, and experimenting.
 
 👋 Hey, I'm **Tuku** — a self-taught developer passionate about turning ideas into reality. 🚀
 
