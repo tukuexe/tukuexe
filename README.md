@@ -44,7 +44,7 @@ Learning by building, debugging, and experimenting.
 
 ⚡ Exploring new technologies, solving problems, and learning by building.
 
-🧠 **Think. Code. Debug. Repeat.** 🔥
+🧠 **Thinking. Coding. Debugging. Repeating.** 🔥
 
 ---
 
