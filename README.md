@@ -110,7 +110,7 @@ Learning by building, debugging, and experimenting.
 
 ### 03. Codebase Store Bot
 
-> A Telegram bot project for a codebase store with code snippets and utilities.
+> A Telegram bot production for a codebase store with code snippets and utilities.
 
 - **Platform:** Telegram
 - **Username:** @codex_storebot
